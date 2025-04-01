@@ -6,7 +6,7 @@ Features ✨
 
 🕒 Showtimes & Booking – Select showtimes and book tickets for your favorite films.
 
-🛒 Online Payments – Secure payment gateway integration for ticket purchases.
+🛒 Online Payments – just payment validation.
 
 🎟️ Seat Selection – Interactive seat selection for a personalized experience.
 
@@ -14,7 +14,6 @@ Features ✨
 
 📊 Admin Dashboard – Manage movies, showtimes, users, and bookings.
 
-📩 Email Notifications – Get booking confirmations via email.
 
 Technologies Used 🛠️
 ASP.NET MVC – Web framework
@@ -27,9 +26,6 @@ Bootstrap & jQuery – Frontend styling and interactivity
 
 Identity Framework – User authentication & authorization
 
-Stripe/PayPal API – Secure payment processing
-
-AJAX – Seamless, real-time updates
 
 Installation & Setup 🚀
 Clone the repository:
@@ -37,7 +33,7 @@ Clone the repository:
 sh
 Copy
 Edit
-git clone https://github.com/your-username/online-film-booking.git
+git clone https://github.com/Rayanagh-tech/website_filmBooking.git 
 cd online-film-booking
 Set up SQL Server and update the connection string in appsettings.json.
 
